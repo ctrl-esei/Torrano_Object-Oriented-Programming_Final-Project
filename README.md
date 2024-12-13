@@ -41,9 +41,9 @@ The system helps industry innovation through the integrat ion of modern software
 
 # IV. Instruction for Running the Program
 
-1. Download the zip file that is attached to this repository.
+1. Download the file that is attached to this repository.
 2. Make sure that your desktop or laptop has Java installed.
-3. Unzip the file that you have downloaded.
-4. Run it.
+3. Open the file that you have downloaded.
+5. Run it.
 
 
